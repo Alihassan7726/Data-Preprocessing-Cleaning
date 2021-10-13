@@ -8,3 +8,4 @@
 6. Data transformations
 7. Merging, joining and replacing columns
 8. Handling categorical data  
+9. Encoding techniques
